@@ -740,9 +740,7 @@ elif selected_role == 'System Developer':
 st.markdown("---")
 st.markdown("""
 <div style='text-align: center; color: #666; padding: 20px;'>
-    <p>🏥 Pregnancy Health AI System Demo | Built with Streamlit</p>
     <p>Improving maternal health outcomes through AI-powered risk prediction</p>
-    <p><em>This is a demonstration of the system described in your project document</em></p>
 </div>
 """, unsafe_allow_html=True)
 
